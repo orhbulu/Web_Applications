@@ -1,4 +1,4 @@
 # Web_Applications
 Python Crash Course
-View it throught:
+View it through:
 https://cryptic-learning-log.herokuapp.com/
