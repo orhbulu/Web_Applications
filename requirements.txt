@@ -11,7 +11,7 @@ pipwrap==0.2.1
 psycopg2==2.8.5
 pytz==2019.3
 requirements-parser==0.0.6
-setuptools==41.2.0
+setuptools==65.5.1
 soupsieve==2.0
 sqlparse==0.3.1
 whitenoise==5.0.1
